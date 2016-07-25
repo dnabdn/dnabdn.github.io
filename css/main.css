@@ -20,6 +20,7 @@ header ul {
 	text-align:right;
 }
 header ul a {
+	color:white;
 	text-decoration:none;
 }
 header ul a:hover {
