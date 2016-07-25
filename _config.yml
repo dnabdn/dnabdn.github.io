@@ -1,2 +1,3 @@
 name: Patrick Donabedian
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
